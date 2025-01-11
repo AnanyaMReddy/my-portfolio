@@ -1,13 +1,4 @@
-✅ Step 1: Create the README.md File
-Inside your project folder (e.g., my-portfolio), create a README.md file. You can do this by running the following command in your terminal:
 
-bash
-Copy code
-touch README.md
-Open the README.md file in your text editor and paste the following content:
-
-markdown
-Copy code
 # **My Portfolio**
 
 This is my personal portfolio website built with **ReactJS**. It showcases my skills, professional background, and the projects I’ve worked on. The portfolio is designed to be responsive, making it user-friendly across both desktop and mobile devices.
